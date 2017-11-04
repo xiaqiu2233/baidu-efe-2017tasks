@@ -1,0 +1,51 @@
+.divall{
+	padding:20px;
+	border:1px solid #999;
+	background-color: white;
+}
+#div1{
+	background-color: #eee;
+	margin:20px;
+}
+/*#div1:before,#div:after{
+	content:"";
+	display:table;
+
+}*/
+/*#div1:after{
+	clear:both;
+}*/
+/*#div1{
+	*zoom:1;
+}*/
+span{
+	float:right;
+	padding-right:60px;
+}
+#div2-1{
+	float:left;
+	width:200px;
+}
+#div2-2{
+	margin-left: 262px;
+	margin-right: 142px;
+}
+#div2-3{
+	float:right;
+	width:120px;
+	text-align: center;
+	padding:0px;
+}
+#div2-3 div{
+	margin:20px auto;
+}
+/*#div2-4{
+	clear:both;
+}*/
+img{
+	width:80px;
+	height:80px;
+	/*margin-top:20px;*/
+	
+
+}

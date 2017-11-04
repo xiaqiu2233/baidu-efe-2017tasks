@@ -1,0 +1,32 @@
+.group:before,
+.group:after{
+	content:"";
+	display:table;
+}
+.group:after{
+	clear:both;
+}
+.group{
+	position:relative;
+	*zoom:1;
+}
+
+}
+div#queue{
+	margin-top: 10px;
+}
+div#queue span{
+	background-color: red;
+	color: white;
+	padding-left:10px;
+	padding-right:10px;
+	float:left;
+	margin-right:10px;
+}
+
+p#hide{
+	display: none;
+}
+i{
+	
+}

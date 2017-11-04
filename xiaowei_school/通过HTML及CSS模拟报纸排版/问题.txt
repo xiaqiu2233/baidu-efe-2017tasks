@@ -1,0 +1,2 @@
+1、解决div里面img图片下方有空白的问题http://jingyan.baidu.com/article/7082dc1c69dc6fe40a89bdfe.html
+2、设置div背景颜色的透明度用opacity：0-1，数值越大颜色越深。

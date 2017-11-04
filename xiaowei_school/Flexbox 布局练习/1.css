@@ -1,0 +1,50 @@
+div#div-all{
+	height:400px;
+	border:1px solid grey;
+	/*  建立弹性框 */
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+	padding:20px;
+    display: flex;
+    flex-direction: row;
+	justify-content: space-between;
+	/*align-content: center;*/
+	align-items: center;
+	/*flex-wrap:wrap;*/
+
+}
+#div-all div{
+	/*margin:auto;*/
+	width:150px;
+	border:1px solid tomato;
+	padding:20px;
+}
+div#div-one{
+	height:120px;
+	border:1px solid tomato;
+}
+div#div-two{
+	height:100px;
+	border:1px solid tomato;
+}
+div#div-three{
+	height:40px;
+	border:1px solid tomato;
+}
+div#div-four{
+	height:200px;
+	border:1px solid #0f0;
+}
+@media (max-width: 640px) {
+	body{
+		background-color: grey;
+	}
+	#div-all{
+		justify-content: space-between;
+		align-items: flex-start;
+		flex-wrap: wrap;
+	}
+	div#div-four{
+		order: -1;
+	}
+}

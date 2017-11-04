@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body * {
+            box-sizing: border-box;
+        }
+        div {
+            border: 1px solid black;
+            width: 40%;
+            height: 80%;
+            margin: 10px;
+            padding: 10px;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        @keyframes touch
+        {
+            0%   {background:red;}
+            50%  {background:blue;}
+            100% {background:white;}
+        }
+        #root {
+            margin: 10px auto;
+        }
+        p {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        p button {
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+<div id="root">
+    <div>
+        <div>
+            <div></div>
+            <div></div>
+        </div>
+        <div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <div>
+        <div>
+            <div></div>
+            <div></div>
+        </div>
+        <div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</div>
+<p>
+    <button id="preorder">前序</button>
+    <button id="inorder">中序</button>
+    <button id="postorder">后序</button>
+</p>
+</body>
+<script>
+    const preorder = document.getElementById('preorder'),
+        inorder = document.getElementById('inorder'),
+        postorder = document.getElementById('postorder'),
+        root = document.getElementById('root');
+    let timer = 0;
+    preorder.onclick = () => {
+        preFunc(root);
+        timer = 0;
+    };
+    inorder.onclick = () => {
+        inFunc(root);
+        timer = 0;
+    };
+    postorder.onclick = () => {
+        postFunc(root);
+        timer = 0;
+    };
+    function preFunc(node) {
+        if (!(node == null)) {
+            shownode(node);
+            preFunc(node.children[0]);
+            preFunc(node.children[1]);
+        }
+    }
+    function inFunc(node) {
+        if (!(node == null)) {
+            inFunc(node.children[0]);
+            shownode(node);
+            inFunc(node.children[1]);
+        }
+    }
+    function postFunc(node) {
+        if (!(node == null)) {
+            postFunc(node.children[0]);
+            postFunc(node.children[1]);
+            shownode(node);
+            //setTimeout是异步，但shownode是同步设置timer的，所以动画时间一定是对的。
+        }
+    }
+   function shownode(node) {
+       node.style.backgroundColor="#ffffff";
+       setTimeout(function () {
+           node.style.backgroundColor="#ff524a";
+       },timer+=500);
+       setTimeout(function () {
+           node.style.backgroundColor="#ffffff";
+       },timer+=500);
+   }
+</script>
+</html>

@@ -1,0 +1,18 @@
+div{
+	display: flex;
+	border:2px solid tomato;
+	margin:23px;
+	justify-content: center;
+	background-color: white;
+}
+div.forth{
+	width:100px;
+	height:60px;
+}
+p{
+	display: flex;
+	justify-content: center;
+}
+p>button{
+	margin:15px;
+}

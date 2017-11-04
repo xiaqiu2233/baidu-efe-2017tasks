@@ -1,0 +1,114 @@
+/** {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}*/
+body{
+	background-color: #d5e3f1;
+	margin:0;
+}
+.group:before,
+.group:after{
+	content:"";
+	display:table;
+}
+.group:after{
+	clear:both;
+}
+.nav{
+	background-color: black;	
+	height:60px;
+	
+	/*height:200%;*/
+	width:100%;
+
+}
+.nav img{
+	margin: 10px;
+	height:40px;
+}
+.nav ul{
+	width:auto;
+	float: right;
+
+}
+.nav ul li{
+
+	float: left;
+	list-style-type: none;
+	padding:0px 10px;
+}
+
+
+.nav li a{
+	text-decoration: none;
+	color:white;
+}
+.nav li a:hover{
+	
+	background-color: #cbecec;
+}
+
+.article{
+	width:80%;
+	padding: 20px;
+	margin: 20px auto;
+	background-color: white;
+	box-shadow: 5px 5px 5px 5px #888888;
+}
+.article h3{
+	color:grey;
+}
+.article .author{
+	color: grey;
+}
+.para{
+	text-indent: 2em;
+}
+.withpic{
+	text-align: center;
+	border:solid grey 1px;
+	padding:20px;
+}
+
+.article table{
+	 text-align:center;
+}
+.article thead,tfoot{
+	background-color: grey;
+}
+.sidebar table{
+	margin:0 auto;
+	border-collapse: collapse;
+}
+.sidebar td{
+	text-align:left;
+} 
+
+.sidebar .data1{
+	text-align: right;
+}
+.sidebar form p {
+    font-size: small;
+    color: gray;
+}
+.sidebar form{
+	text-align: center;
+}
+.sidebar form #submit{
+	width:100%;
+	margin-top:20px;
+	cursor: pointer;
+	font-size:large;
+	border-radius: 15px;
+	background: blue;
+    color: white;
+    outline: none;
+    border:none;
+    padding:15px;
+}
+footer p{
+	color: white;
+	text-align: center;
+	padding:19px;
+}

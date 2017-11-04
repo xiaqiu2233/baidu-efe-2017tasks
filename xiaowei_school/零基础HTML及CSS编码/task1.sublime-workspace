@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"final_y"
+			],
+			[
+				"final",
+				"final_y"
+			],
+			[
+				"fina",
+				"final_x"
+			],
+			[
+				"p",
+				"parseInt"
+			],
+			[
+				"elem",
+				"elementID"
+			],
+			[
+				"getElementBy",
+				"getElementsByTagName"
+			],
+			[
+				"move",
+				"moveElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"ite",
+				"item_text"
+			],
+			[
+				"a",
+				"accesskey"
+			],
+			[
+				"su",
+				"superscript"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"link",
+				"link_text"
+			],
+			[
+				"quo",
+				"quoteChildren"
+			],
+			[
+				"qu",
+				"quoteElements是一个数组，它包含blockquote中的所有元素节点"
+			],
+			[
+				"header",
+				"header_text"
+			],
+			[
+				"A",
+				"abbreviations"
+			],
+			[
+				"dd",
+				"ddesc"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"dt",
+				"dtitle"
+			],
+			[
+				"dti",
+				"dtitle_text"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"td",
+				"td_array"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"insert",
+				"insertBefore"
+			],
+			[
+				"image",
+				"imagegallery"
+			],
+			[
+				"g",
+				"gallery"
+			],
+			[
+				"ima",
+				"imagegallery"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"append",
+				"append1"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"u",
+				"user_agent_list"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"couse",
+				"courses_name"
+			],
+			[
+				"threads",
+				"threads_count"
+			],
+			[
+				"time",
+				"time_start"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"strrep",
+				"str_repeat"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"client",
+				"client_info"
+			],
+			[
+				"cl",
+				"client_address"
+			],
+			[
+				"c",
+				"client_num"
+			],
+			[
+				"I",
+				"ID_PASSWORD"
+			],
+			[
+				"ID",
+				"ID_USERNAME"
+			],
+			[
+				"server_",
+				"server_forever"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"_WIN",
+				"_WIN64"
+			],
+			[
+				"dump",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Program Files (x86)/xampp/htdocs/WWW/baidu_font-end_school/xiaowei_school/task1/task1.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation_improve/lis.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation_improve/CSS/layout.css",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation_improve/scripts/prepareSlideshow.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation_improve/scripts/moveElement.js",
+		"/C/Users/ThinkPad/Desktop/自学/浏览器工作原理/Webkit.txt",
+		"/D/Program Files (x86)/Python/program/fllick2.py",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation_improve/scripts/addLoadEvent.js",
+		"/C/Users/ThinkPad/Desktop/自学/javascript/javascript.txt",
+		"/D/Program Files (x86)/Python/program/binary.py",
+		"/D/Program Files (x86)/Python/program/spider/cuiqingcai_spider/second.py",
+		"/D/Program Files (x86)/Python/program/spider/cuiqingcai_spider/proxy.py",
+		"/D/Program Files (x86)/Python/program/实验吧ctf_web/whoareyou.py",
+		"/D/Program Files (x86)/Python/program/实验吧ctf_web/intresting绕过.py",
+		"/D/Program Files (x86)/Python/program/hpptsys.py",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation/scripts/an.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation/whee.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation/scripts/moveMessage.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation/CSS/an.css",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS-DOM2/scripts/st.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/animation/scripts/addLoadEvent.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS-DOM2/scripts/addLoadEvent.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS_DOM/scripts/ss.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS-DOM2/itinerary.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS-DOM2/CSS/format.css",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS_DOM/story.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS_DOM/CSS/f.css",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/Calculator/Calculator.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/Calculator/css/cal.css",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/Calculator/scripts/cal.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS_DOM/scripts/addLoadEvent.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/CSS_DOM/test.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/test.html",
+		"/D/WWW/Calculator/scripts/cal.js",
+		"/D/WWW/Calculator/Calculator.html",
+		"/D/WWW/Calculator/css/cal.css",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/Enrich document content/scripts/displayAbbreviations.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/Enrich document content/scripts/displayAccessKeys.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/Enrich document content/scripts/addLoadEvent.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/Enrich document content/scripts/displayCitations.js",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/Enrich document content/explanation.html",
+		"/D/Program Files (x86)/xampp/htdocs/WWW/learn/form_test",
+		"/D/Program Files (x86)/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/D/Program Files (x86)/xampp/apache/conf/httpd.conf",
+		"/D/Program Files (x86)/xampp/apache/conf/original/httpd.conf",
+		"/D/Program Files (x86)/xampp/apache/conf/extra/httpd-userdir.conf",
+		"/D/Program Files (x86)/xampp/apache/conf/extra/httpd-autoindex.conf",
+		"/D/Program Files (x86)/xampp/apache/conf/extra/httpd-manual.conf",
+		"/D/Program Files (x86)/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Users/ThinkPad/Desktop/mysql_error.log",
+		"/D/Program Files (x86)/xampp/apache/conf/openssl.cnf",
+		"/D/Program Files (x86)/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/Program Files (x86)/xampp/php/php.ini",
+		"/D/phpStudy/WWW/learn/gallery_improve/mystyle.css",
+		"/D/phpStudy/WWW/learn/gallery_improve/scripts/showPic.js",
+		"/D/phpStudy/WWW/Calculator/css/cal.css",
+		"/D/phpStudy/WWW/learn/Enrich document content/scripts/displayAbbreviations.js",
+		"/D/phpStudy/WWW/Calculator/Calculator.html",
+		"/D/phpStudy/WWW/learn/Enrich document content/explanation.html",
+		"/D/phpStudy/WWW/learn/Dynamic_create_ tag/scripts/ex.js",
+		"/D/phpStudy/WWW/Calculator/scripts/cal.js",
+		"/D/phpStudy/WWW/learn/Dynamic_create_ tag/dynamic.html",
+		"/D/phpStudy/WWW/learn/gallery_improve/gallery.html",
+		"/D/phpStudy/WWW/learn/Enrich document content/css/explanation.css",
+		"/D/phpStudy/WWW/learn/taobao.css",
+		"/D/phpStudy/WWW/learn/cdj-col.css",
+		"/D/phpStudy/Apache/conf/httpd.conf",
+		"/D/phpStudy/WWW/learn/ajax/ajax.html",
+		"/D/phpStudy/WWW/learn/ajax/ex.txt",
+		"/D/phpStudy/WWW/learn/ajax/scripts/getHTTPObject.js",
+		"/D/phpStudy/WWW/learn/ajax/scripts/addLoadEvent.js",
+		"/D/phpStudy/WWW/learn/ajax/scripts/getNewContent.js",
+		"/D/系统组/入侵检测/ISE08/Tool/01_snort/snort.conf",
+		"/D/Program Files (x86)/Python/program/spider/icq_spider多进程/spider_icq_new.py",
+		"/D/Program Files (x86)/Python/program/spider/icq_spider多进程/myThread.py",
+		"/D/Program Files (x86)/Python/program/spider/icq_spider多进程/1.py",
+		"/D/phpStudy/WWW/learn/jiedian_41/scripts/showPic.js",
+		"/D/phpStudy/WWW/learn/jiedian_41/jiedian_41.html",
+		"/D/phpStudy/WWW/learn/jiedian_41/mystyle.css",
+		"/D/Program Files (x86)/Python/program/spider/icq_spider多进程/test.py",
+		"/D/Program Files (x86)/phantomjs-2.1.1-windows/bin/program/onconsole_hiudiao.js",
+		"/D/Program Files (x86)/phantomjs-2.1.1-windows/bin/program/func_evaluate.js",
+		"/D/Program Files (x86)/phantomjs-2.1.1-windows/bin/program/loadspeed.js",
+		"/D/Program Files (x86)/phantomjs-2.1.1-windows/bin/program/helloworld.js",
+		"/D/Program Files (x86)/Python/program/spider/icq_spider多进程/1.jpg",
+		"/C/Users/ThinkPad/AppData/Local/Temp/请破译密码2-misc50/misc50.exe",
+		"/D/系统组/入侵检测/snort-2.9.9.0/etc/snort.conf",
+		"/C/Users/ThinkPad/Downloads/apktool/一键apktool/1/smali/com/tsctf/firstapk/MainActivity.smali",
+		"/D/系统组/入侵检测/ISE08/Tool/01_snort/snortrules-snapshot-2903/etc/snort.conf",
+		"/D/Program Files (x86)/Python/program/spider/icq_spider多进程/icq_pic/2/xxx.jpg",
+		"/D/Program Files (x86)/Python/program/spider/icp_spider多线程/myThread.py",
+		"/D/Program Files (x86)/Python/program/spider/icp_spider多线程/spider_icq_new.py",
+		"/D/Program Files (x86)/Python/program/spider/icp_spider多线程/test.py",
+		"/D/Program Files (x86)/Python/program/多线程/子类/MyThread.py",
+		"/D/Program Files (x86)/Python/program/多进程/pool_apply.py",
+		"/D/Program Files (x86)/Python/program/多线程/子类/mtfacfib.py",
+		"/D/Program Files (x86)/Python/program/多进程/pool_async.py",
+		"/D/Program Files (x86)/Python/program/多线程/threading/threadingtest3.py",
+		"/D/Program Files (x86)/Python/program/spider/icp_spider多线程/spider_icq.py",
+		"/D/python程序/冯亦彤2016110790_戎宇2016110800IRIE大作业/程序/spider.py",
+		"/D/python程序/冯亦彤2016110790_戎宇2016110800IRIE大作业/程序/multiThread.py",
+		"/D/python程序/冯亦彤2016110790_戎宇2016110800IRIE大作业/程序/init.py",
+		"/D/Program Files (x86)/Python/program/spider/spider_icq.py",
+		"/D/Program Files (x86)/Python/program/多线程/Queue/书上的Queue/queue_book.py",
+		"/D/Program Files (x86)/Python/program/多线程/Queue/书上的Queue/MyThread.py",
+		"/D/Program Files (x86)/Python/program/spider/spider_heibanke2.py",
+		"/D/Program Files (x86)/Python/program/spider/spider_heibanke.py",
+		"/D/Program Files (x86)/Python/program/spider/1.py",
+		"/D/Program Files (x86)/Python/program/spider/test.py",
+		"/D/Program Files (x86)/Python/program/spider/spider_heibanke1.py",
+		"/D/Program Files (x86)/Python/program/多线程/threadingtest.py",
+		"/D/Program Files (x86)/Python/program/多线程/Queue/queue_book.py",
+		"/D/Program Files (x86)/Python/program/多线程/threadingqueue.py",
+		"/D/Program Files (x86)/Python/program/多线程/threadingtest2.py",
+		"/D/Program Files (x86)/Python/program/多线程/threadingtest3.py",
+		"/D/Program Files (x86)/Python/program/多线程/threadlock.py",
+		"/D/Program Files (x86)/Python/program/多线程/threadtest.py",
+		"/D/Program Files (x86)/Python/program/spider_icq.py",
+		"/D/Program Files (x86)/Python/program/多线程/threading.py",
+		"/C/Users/ThinkPad/Desktop/自学/代理/HTTP权威指南/server.py",
+		"/C/Users/ThinkPad/Desktop/server.py",
+		"/C/Users/ThinkPad/Desktop/main.cpp",
+		"/D/phpStudy/WWW/learn/cdj.html",
+		"/D/phpStudy/WWW/learn/serialize_php.php",
+		"/D/phpStudy/WWW/learn/new.html",
+		"/D/phpStudy/WWW/learn/EventSource.php",
+		"/D/phpStudy/WWW/learn/EventSource.html",
+		"/D/Program Files (x86)/Python/program/jiedian_41.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"443",
+			"error_log",
+			"PHP",
+			"444",
+			"44",
+			"444",
+			"443",
+			"database",
+			"database\n",
+			"}\n",
+			"move-result-object",
+			"Stringbuilder",
+			"ipvar",
+			"coursename",
+			"二进制",
+			"coursename",
+			"SQL",
+			"暴走",
+			"unicode",
+			"doCommond",
+			"setRequestProperty",
+			"'",
+			"secure",
+			"etc",
+			"bind-address",
+			"Thank you for",
+			"192.168.110.140",
+			"_GLOBAL_DEFAULT_TIMEOUT",
+			"content",
+			"Bk\u000fG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðF~ò^jñC~ð52é‰ŸŒ’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž“‹Žû&8\u0019US\u0004AP\u001eUR\u0005CQ\u001cTR\u0006@P\u0002UQ\u001aAS\u0001UQ\u001bAS\u0001UQ\u001bCP\u0007WR\u001dCP\u0007WR\u001eCP\u0004TQ\u0010@S\u000bUP\u0012@R\u000fTP\u0015@R\fTP\u0016Am\n",
+			"Bk\u000fG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðG~ò]jðF~ò^jñC~ð52é‰ŸŒ’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž’Šˆž“‹Žû&8\u0019US\u0004AP\u001eUR\u0005CQ\u001cTR\u0006@P\u0002UQ\u001aAS\u0001UQ\u001bAS\u0001UQ\u001bCP\u0007WR\u001dCP\u0007WR\u001eCP\u0004TQ\u0010@S\u000bUP\u0012@R\u000eTP\u0015@R\fTP\u0016Am\n",
+			"\\k\u000fG|\f]h\u000eG|\f]h\u000eG|\f]h\u000eF",
+			"]",
+			"reload",
+			"unescape",
+			"goahead",
+			"feed",
+			"handle_endtag",
+			"handle_starttag",
+			"print",
+			"Getadapterbyname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "task1.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

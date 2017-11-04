@@ -1,0 +1,116 @@
+.grid-container{
+	width:90%;
+	margin-right: auto;
+	margin-left:auto;
+	border:1px solid black;
+}
+/*清除浮动以保证row中的每一个col都待在row中*/
+.row:before,
+.row:after{
+	content:"";
+	display:table;
+	clear:both;
+}
+/*如果我们的col为空，我们浮动的col就会堆叠在彼此之上，为了预防这个，我们给col一个min-height*/
+[class*='col-']{
+	box-sizing: border-box; 
+	-webkit-box-sizing:border-box;
+	float:left;
+	min-height: 10px;
+	background-color: #FFDCDC;
+	padding: 12px;
+}
+[class*='col-']>p{
+	padding:0;
+	margin:0;
+	background-color: grey;
+	text-align: center;
+	color: white;
+}
+.col-1{
+	width:8.33%;
+}
+.col-2{
+	width:16.66%;
+}
+.col-3{
+	width:25%;
+}
+.col-4{
+	width:33.33%;
+}
+.col-5{
+	width:41.66%;
+}
+.col-6{
+	width:50%;
+}
+.col-7{
+	width:58.33%;
+}
+.col-8{
+	width: 66.66%;
+}
+.col-9{
+	width:75%;
+}
+.col-10{
+	width:83.33%;
+}
+.col-11{
+	width:91.66%;
+}
+.col-12{
+	width:100%;
+}
+.first{
+	display: none; 
+}
+.second{
+	display: block;
+}
+@media (min-width:768px){
+	.first{
+		display: block; 
+	}
+	.second{
+		display: none;
+	}
+	.col-sm-1{
+		width:8.33%;
+	}
+	.col-sm-2{
+		width:16.66%;
+	}
+	.col-sm-3{
+		width:25%;
+	}
+	.col-sm-4{
+		width:33.33%;
+	}
+	.col-sm-5{
+		width:41.66%;
+	}
+	.col-sm-6{
+		width:50%;
+	}
+	.col-sm-7{
+		width:58.33%;
+	}
+	.col-sm-8{
+		width: 66.66%;
+	}
+	.col-sm-9{
+		width:75%;
+	}
+	.col-sm-10{
+		width:83.33%;
+	}
+	.col-sm-11{
+		width:91.66%;
+	}
+	.col-sm-12{
+		width:100%;
+	}
+}
+

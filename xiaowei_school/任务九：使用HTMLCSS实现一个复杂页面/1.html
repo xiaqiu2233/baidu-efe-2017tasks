@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Bootstrap 模板</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!-- 引入 Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="1.css">
+      <!-- HTML5 Shim 和 Respond.js 用于让 IE8 支持 HTML5元素和媒体查询 -->
+      <!-- 注意： 如果通过 file://  引入 Respond.js 文件，则该文件无法起效果 -->
+      <!--[if lt IE 9]>
+         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+         <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   <body>
+      <header>
+         <img src="img/1.jpg">
+         <div class="right">
+            <div class="search">
+               <span class="glyphicon glyphicon-search"></span>
+               <input type="text" name="search-text">
+            </div>
+            <div class="login">
+               <span class="glyphicon glyphicon-user"></span>
+               <span>登录</span>
+            </div>
+         </div>
+      </header>
+      <div class="main-container clearfix">
+         <div class="sidebar" id="sidebar">
+            <div class="user-info">
+               <div class="user-img">
+                  <img src="img/1.jpg">
+               </div>              
+               <span>Mirror2233</span>
+            </div>
+
+            <div class="user-details">
+               <div class="collection">
+                  <p>110</p>
+                  <p>收藏</p>
+               </div>
+               <div class="fans">
+                  <p>313</p>
+                  <p>粉丝</p>
+               </div>
+            </div>
+
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+               <div class="panel first-panel">
+                  <a class="sidebar-a-first" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                     <div class="panel-heading first-class" id="headingOne" role="tab">
+                        <h4 class="panel-title">
+                           
+                              <span class="glyphicon glyphicon-star"></span>
+                              <span class="title-first">个人报表</span>
+                          
+                        </h4> 
+                     </div>
+                  </a>
+                  <div class="panel-collapse collapse" id="collapseOne" role="tabpanel" aria-labelledby="headingOne" aria-expanded="false">
+                     <div class="panel-group" id="accordionOne" role="tablist" aria-multiselectable="true">
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingOneOne" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionOne" href="#floderOneOne" aria-expanded="true" aria-controls="floderOneOne">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件一</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderOneOne" role="tabpanel" aria-labelledby="subPanelHeadingOneOne" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingOneTwo" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionOne" href="#floderOneTwo" aria-expanded="true" aria-controls="floderOneTwo">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件二</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderOneTwo" role="tabpanel" aria-labelledby="subPanelHeadingOneTwo" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingOneThree" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionOne" href="#floderOneThree" aria-expanded="true" aria-controls="floderOneThree">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件三</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderOneThree" role="tabpanel" aria-labelledby="subPanelHeadingOneThree" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                    </div> 
+                  </div>
+               </div>
+
+
+
+               <div class="panel first-panel">
+                  <a class="sidebar-a-first" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                     <div class="panel-heading first-class" id="headingTwo" role="tab">
+                        <h4 class="panel-title">
+                           
+                              <span class="glyphicon glyphicon-star"></span>
+                              <span class="title-first">个人收藏</span>
+                           
+                        </h4>
+                     </div>
+                  </a>
+                  <div class="panel-collapse collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo" aria-expanded="false">
+                     <div class="panel-group" id="accordionTwo" role="tablist" aria-multiselectable="true">
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingTwoOne" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionTwo" href="#floderTwoOne" aria-expanded="true" aria-controls="floderTwoOne">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件一</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderTwoOne" role="tabpanel" aria-labelledby="subPanelHeadingTwoOne" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingTwoTwo" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionTwo" href="#floderTwoTwo" aria-expanded="true" aria-controls="floderTwoTwo">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件二</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderTwoTwo" role="tabpanel" aria-labelledby="subPanelHeadingTwoTwo" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingTwoThree" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionTwo" href="#floderTwoThree" aria-expanded="true" aria-controls="floderTwoThree">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件三</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderTwoThree" role="tabpanel" aria-labelledby="subPanelHeadingTwoThree" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                    </div> 
+                  </div>
+               </div>
+
+               <div class="panel first-panel">
+                  <a class="sidebar-a-first" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                     <div class="panel-heading first-class" id="headingThree" role="tab">
+                        <h4 class="panel-title">                          
+                              <span class="glyphicon glyphicon-share"></span>
+                              <span class="title-first">我的分享</span>
+                          
+                        </h4>
+                     </div> 
+                  </a>
+                  <div class="panel-collapse collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingThree" aria-expanded="false">
+                     <div class="panel-group" id="accordionThree" role="tablist" aria-multiselectable="true">
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingThreeOne" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionThree" href="#floderThreeOne" aria-expanded="true" aria-controls="floderThreeOne">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件一</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderThreeOne" role="tabpanel" aria-labelledby="subPanelHeadingThreeOne" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingThreeTwo" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionThree" href="#flodeThreeTwo" aria-expanded="true" aria-controls="flodeThreeTwo">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件二</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="flodeThreeTwo" role="tabpanel" aria-labelledby="subPanelHeadingThreeTwo" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+
+                        <div class="panel">
+                           <div class="panel-heading second-class"  id="subPanelHeadingThreeThree" role="tab">
+                              <a class="sidebar-a-second" data-toggle="collapse" data-parent="#accordionThree" href="#floderThreeThree" aria-expanded="true" aria-controls="floderThreeThree">
+                                 <span class="glyphicon glyphicon-chevron-right"></span>
+                                 <span class="glyphicon glyphicon-folder-close"></span>
+                                 <span class="title-second">文件三</span>
+                              </a>
+                           </div>                                                
+                           <div class="panel-collapse collapse" id="floderThreeThree" role="tabpanel" aria-labelledby="subPanelHeadingThreeThree" >
+                              <ul class="list-group">
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档1</span>
+                                    </a>
+                                 </li>
+                                 <li class="list-group-item">
+                                    <a class="sidebar-a-third" href="#">
+                                       <span class="glyphicon glyphicon-file"></span>
+                                       <span class="title-third">文档2</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                    </div> 
+                  </div>
+               </div>
+
+
+            </div>
+         </div>
+
+         <div class="main-container-right">
+            <ol class="breadcrumb">
+               <li><a href="#">FYT</a></li>
+               
+
+            </ol>
+         </div>
+      </div>
+      <script type="text/javascript" src="jquery-3.2.1.js"></script>
+      <script type="text/javascript" src="js/bootstrap.min.js"></script>
+      <script type="text/javascript">
+         
+         $(function () { 
+            for(var i=0;i<$('.first-panel a').length;i++){
+               $($('.first-panel a')[i]).click( function(){  
+                  //将与已点击panel同一级的其他panel的class设置为panel，因为有些可能class为panel bg-col
+                  for(var i=0;i<$(this).parent(".panel").siblings().length;i++){
+                     $($(this).parent(".panel").siblings()[i]).attr("class","panel");
+                  }
+                  $(this).parent(".panel").addClass('bg-col');
+                  //将点击的panel下的子panel的bg-col也设置
+                  for(var i=0;i<$(this).parents(".panel").first().find(".panel").length;i++){              
+                     $($(this).parent(".panel").find(".panel")[i]).addClass("bg-col");
+                  }
+               });
+               
+            }
+
+         });
+         $(function(){
+            for(var i=0;i<$('.second-class a').length;i++){
+               $($('.second-class a')[i]).click(function(){
+                  $(this).parents(".panel").first().find("li").addClass("bg-col");
+               });
+            }
+         });
+         $(function(){
+            // for(var i=0;i<$('.list-group-item a').length;i++){
+            //    $($('.list-group-item a')[i]).click(function(){
+            //       $('.breadcrumb li:not(:first)').remove();
+            //       var str=$(this).parents(".panel").last().find('.title-first').html();
+            //       var str2=$(this).parents(".panel").first().find('.title-second').html();
+            //       var str3=$(this).children(".title-third").html();
+            //       $('.breadcrumb').append("<li><a href='#'>"+str+"</a></li>");
+            //       $('.breadcrumb').append("<li><a href='#'>"+str2+"</a></li>");
+            //       $('.breadcrumb').append("<li><a href='#'>"+str3+"</a></li>");
+
+            //    })
+            // }
+            //在breadcrumb上显示路径
+            for(var i=0;i<$('a[class^=sidebar-a]').length;i++){
+               $($('a[class^=sidebar-a]')[i]).click(function(){
+                  if($(this).hasClass("sidebar-a-first")){
+                     $('.breadcrumb li:not(:first)').remove();
+                     var str=$(this).text();
+                     console.log(str);
+                     $('.breadcrumb').append("<li><a href='#'>"+str+"</a></li>");
+
+                  }
+                  if($(this).hasClass("sidebar-a-second")){
+                     $('.breadcrumb li:not(:first)').remove();
+                     var str=$(this).parents(".panel").last().find(".sidebar-a-first").text();
+                     var str2=$(this).text();
+                     $('.breadcrumb').append("<li><a href='#'>"+str+"</a></li>");
+                     $('.breadcrumb').append("<li><a href='#'>"+str2+"</a></li>");
+                  }
+                  if($(this).hasClass("sidebar-a-third")){
+                     $('.breadcrumb li:not(:first)').remove();
+                     var str3=$(this).text();
+                     var str2=$(this).parents(".panel").first().find(".sidebar-a-second").text();
+                     var str=$(this).parents(".panel").last().find(".sidebar-a-first").text();
+                     $('.breadcrumb').append("<li><a href='#'>"+str+"</a></li>");
+                     $('.breadcrumb').append("<li><a href='#'>"+str2+"</a></li>");
+                     $('.breadcrumb').append("<li><a href='#'>"+str3+"</a></li>");
+                  }
+                 
+               });
+            }
+            
+         });
+
+         $(function(){
+            for(var i=0;i<$('.glyphicon-chevron-right').parent("a").length;i++){
+               $($('.glyphicon-chevron-right').parent("a")[i]).click(function(){
+                  for(var i=0;i<$(this).parents(".panel").first().siblings().length;i++){
+                     $($(this).parents(".panel").first().siblings()[i]).find(".glyphicon-chevron-right").removeClass("trans-rotate");
+
+                  }
+                  $(this).find(".glyphicon-chevron-right").toggleClass("trans-rotate");
+               });
+            
+               
+            }
+
+         });
+
+</script> 
+   </body>

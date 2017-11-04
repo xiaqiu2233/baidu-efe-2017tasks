@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="6.css">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" id="clickme">点我</button>  
+    <div class="modal">
+        <div class="modal-dialog" draggable="true">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close">&times;</button>
+                    <h4 class="modal-title">标题</h4>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="close">取消</button>
+                </div>
+                <div draggable="true" class="resizable-handle e-resize"></div>
+                <div draggable="true" class="resizable-handle n-resize"></div>
+                <div draggable="true" class="resizable-handle w-resize"></div>
+                <div draggable="true" class="resizable-handle s-resize"></div>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="6.js"></script>
+<script>
+    let clickme=document.querySelector("#clickme");
+    let myModal=document.querySelector(".modal");
+    let modal=new ModalFunc(myModal,{
+        size:{
+            width:"500px",
+            height:'138px'
+        },
+        keyboard:true,
+        resizeable: true,
+        dragable: true,
+        backdrop:true,
+        open: () => {
+            console.log('模态框打开');
+        },
+        beforeClose: (done) => {
+            if (confirm('before close')) {
+                done();
+            } else {
+                console.log('close failed by before close callback.');
+            }
+        },
+        close: () => {
+            console.log('模态框关闭')
+        }
+    });
+    clickme.addEventListener("click",function(){
+        modal.show();
+    },false);
+</script>
+</html>

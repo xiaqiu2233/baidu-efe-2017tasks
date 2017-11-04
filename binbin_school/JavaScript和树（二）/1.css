@@ -1,0 +1,17 @@
+div{
+	display: flex;
+	justify-content: center;
+	border:2px solid black;
+	margin:9px;
+	padding:4px;
+	background-color: white;
+}
+p,form{
+	display: flex;
+	justify-content: center;
+
+}
+button{
+	margin:10px;
+}
+
